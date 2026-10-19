@@ -2,8 +2,7 @@
 
 <h1 align="center">
   🚀 Exploring Trends: Terrorism report dashboard and YouTube streamer analysis
-</h1
----
+</h1>
 
 ## Terrorism report dashboard: A dynamic data visualisation of terrorism trends around the world
 

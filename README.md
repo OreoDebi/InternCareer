@@ -5,7 +5,7 @@
 </h1
 ---
 
-## 🚀 Terrorism report dashboard: A dynamic data visualisation of terrorism trends around the world
+## Terrorism report dashboard: A dynamic data visualisation of terrorism trends around the world
 
 This terrorism report is a visually engaging analytical report designed to explore terrorist attacks around the world between 1970 and 2017. It highlights the types, frequency, and geographical distribution of these attacks, providing insights into global terrorism trends over time. The report can be used by researchers, policymakers, security analysts, and the general public to identify patterns, understand regional differences, and gain a better understanding of the evolution of terrorism worldwide.
 
